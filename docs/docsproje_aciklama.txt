@@ -1,0 +1,6 @@
+Bu projede MATLAB kullanılarak GUI tabanlı bir nesne ölçüm sistemi geliştirilmiştir.
+
+Kullanıcı bir görüntü seçer, referans olarak 1 TL parasını işaretler ve sistem
+piksel–cm dönüşümünü yaparak nesnenin genişlik, yükseklik ve çapını hesaplar.
+
+Grafik arayüz MATLAB uicontrol bileşenleri ile oluşturulmuştur.
