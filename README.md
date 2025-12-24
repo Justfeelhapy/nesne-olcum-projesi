@@ -11,3 +11,6 @@ Bu proje MATLAB GUI kullanarak görüntü üzerinden nesne ölçümü yapar.
 - src/: MATLAB kodları
 - data/: resimler ve ölçüm sonuçları
 - figures/: kaydedilen grafikler
+## Lisans
+Bu proje MIT Lisansı ile paylaşılmıştır.
+
